@@ -1,0 +1,14 @@
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.exe
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.deps.json
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.dll
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.pdb
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.dll
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.pdb
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+c:\Users\Макс\Desktop\C#\Quiz\Quiz\obj\Debug\net8.0\ref\Quiz.dll
